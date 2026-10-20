@@ -1,1 +1,6 @@
 .idea/
+.vscode/
+.gitattributes
+lab4/tsp_gifs/
+lab4/bit_images/
+lab8/data/
